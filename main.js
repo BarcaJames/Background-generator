@@ -3,7 +3,7 @@ var whatever = require('lodash');
 
 var array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 console.log('answer:', whatever.without(array, 1, 2, 3));
-console.log("Trying gitHub here");
+console.log("Trying gitHub here e");
 
 var css = document.querySelector("h3");
 var color1 = document.querySelector("#color1");
