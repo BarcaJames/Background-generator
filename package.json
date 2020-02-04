@@ -1,15 +1,13 @@
 {
-    "name": "background-generator",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "_comment": "Can run command frm here with npm run build. Build could be whatever I want to name it",
-    "scripts": {
-        "build": "browserify main.js > bundle.js && live-server"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "lodash": "^4.17.11"
-    }
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "_comment": "Can run command frm here with npm run build. Build could be whatever I want to name it",
+  "scripts": {
+    "build": "browserify main.js > bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
